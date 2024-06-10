@@ -4,4 +4,4 @@ numpy
 ydata-profiling
 streamlit-pandas-profiling
 Jinja2
-visions == 0.7.4
+visions == 0.7.5
